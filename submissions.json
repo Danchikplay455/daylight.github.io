@@ -1,0 +1,30 @@
+{
+    "submissions": [
+        {
+            "id": "5f8d7a4b3c2d1",
+            "date": "2023-05-15 14:30:22",
+            "name": "Иван Иванов",
+            "email": "ivan@example.com",
+            "phone": "+79123456789",
+            "subject": "Вопрос по доставке",
+            "message": "Здравствуйте, когда будет доставка?",
+            "product": "",
+            "delivery_type": "",
+            "form_type": "contact",
+            "status": "new"
+        },
+        {
+            "id": "6g9e8b5c4d3e2",
+            "date": "2023-05-16 10:15:45",
+            "name": "Петр Петров",
+            "email": "petr@example.com",
+            "phone": "+79234567890",
+            "subject": "",
+            "message": "Хочу купить GTA V",
+            "product": "GTA V",
+            "delivery_type": "digital",
+            "form_type": "delivery",
+            "status": "new"
+        }
+    ]
+}
